@@ -1,0 +1,17 @@
+{
+  "name": "Giải đấu Pickleball",
+  "short_name": "Pickleball",
+  "description": "Ứng dụng quản lý giải đấu Pickleball",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
